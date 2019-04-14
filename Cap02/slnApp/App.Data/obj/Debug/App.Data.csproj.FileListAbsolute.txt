@@ -1,0 +1,15 @@
+C:\Users\EXTENSION\source\repos\slnApp\App.Data\bin\Debug\App.Data.dll
+C:\Users\EXTENSION\source\repos\slnApp\App.Data\bin\Debug\App.Data.pdb
+C:\Users\EXTENSION\source\repos\slnApp\App.Data\obj\Debug\App.Data.csprojAssemblyReference.cache
+C:\Users\EXTENSION\source\repos\slnApp\App.Data\obj\Debug\App.Data.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\source\repos\slnApp\App.Data\obj\Debug\App.Data.dll
+C:\Users\EXTENSION\source\repos\slnApp\App.Data\obj\Debug\App.Data.pdb
+C:\VSD\github\vs2017-Developer\Cap02\slnApp\App.Data\bin\Debug\App.Data.dll
+C:\VSD\github\vs2017-Developer\Cap02\slnApp\App.Data\bin\Debug\App.Data.pdb
+C:\VSD\github\vs2017-Developer\Cap02\slnApp\App.Data\bin\Debug\App.Entities2.dll
+C:\VSD\github\vs2017-Developer\Cap02\slnApp\App.Data\bin\Debug\App.Entities2.pdb
+C:\VSD\github\vs2017-Developer\Cap02\slnApp\App.Data\obj\Debug\App.Data.csprojAssemblyReference.cache
+C:\VSD\github\vs2017-Developer\Cap02\slnApp\App.Data\obj\Debug\App.Data.csproj.CoreCompileInputs.cache
+C:\VSD\github\vs2017-Developer\Cap02\slnApp\App.Data\obj\Debug\App.Data.csproj.CopyComplete
+C:\VSD\github\vs2017-Developer\Cap02\slnApp\App.Data\obj\Debug\App.Data.dll
+C:\VSD\github\vs2017-Developer\Cap02\slnApp\App.Data\obj\Debug\App.Data.pdb

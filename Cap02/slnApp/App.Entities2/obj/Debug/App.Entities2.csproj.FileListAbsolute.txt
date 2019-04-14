@@ -1,0 +1,12 @@
+C:\Users\EXTENSION\source\repos\slnApp\App.Entities2\bin\Debug\App.Entities2.dll
+C:\Users\EXTENSION\source\repos\slnApp\App.Entities2\bin\Debug\App.Entities2.pdb
+C:\Users\EXTENSION\source\repos\slnApp\App.Entities2\obj\Debug\App.Entities2.csprojAssemblyReference.cache
+C:\Users\EXTENSION\source\repos\slnApp\App.Entities2\obj\Debug\App.Entities2.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\source\repos\slnApp\App.Entities2\obj\Debug\App.Entities2.dll
+C:\Users\EXTENSION\source\repos\slnApp\App.Entities2\obj\Debug\App.Entities2.pdb
+C:\VSD\github\vs2017-Developer\Cap02\slnApp\App.Entities2\bin\Debug\App.Entities2.dll
+C:\VSD\github\vs2017-Developer\Cap02\slnApp\App.Entities2\bin\Debug\App.Entities2.pdb
+C:\VSD\github\vs2017-Developer\Cap02\slnApp\App.Entities2\obj\Debug\App.Entities2.csprojAssemblyReference.cache
+C:\VSD\github\vs2017-Developer\Cap02\slnApp\App.Entities2\obj\Debug\App.Entities2.csproj.CoreCompileInputs.cache
+C:\VSD\github\vs2017-Developer\Cap02\slnApp\App.Entities2\obj\Debug\App.Entities2.dll
+C:\VSD\github\vs2017-Developer\Cap02\slnApp\App.Entities2\obj\Debug\App.Entities2.pdb
