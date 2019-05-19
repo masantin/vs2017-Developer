@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.Entity;
 
 namespace App.Data.DataAccess
 {
@@ -53,7 +54,7 @@ namespace App.Data.DataAccess
             using(var db = new DBModel())
             {
                 db.Customer.Attach(entity);
-                db.Entry(entity).State = System.Data.Entity.EntityState.Modified;
+                db.Entry(entity).State = EntityState.Modified;
                 db.SaveChanges();
                 result = true;
 

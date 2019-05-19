@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Entities.Base", "App.En
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Data.DataAccessTest", "App.Data.DataAccessTest\App.Data.DataAccessTest.csproj", "{FFFC01C7-481C-41F7-B3F2-7D978F5B4339}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Entities.Queries", "App.Entities.Queries\App.Entities.Queries.csproj", "{4F3C76BF-2F84-41F3-B0D3-831AC1C83A4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.UI.Desktop", "App.UI.Desktop\App.UI.Desktop.csproj", "{F37AE53A-5258-4BB9-AED5-F038CE135B33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{FFFC01C7-481C-41F7-B3F2-7D978F5B4339}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFFC01C7-481C-41F7-B3F2-7D978F5B4339}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFFC01C7-481C-41F7-B3F2-7D978F5B4339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3C76BF-2F84-41F3-B0D3-831AC1C83A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3C76BF-2F84-41F3-B0D3-831AC1C83A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3C76BF-2F84-41F3-B0D3-831AC1C83A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3C76BF-2F84-41F3-B0D3-831AC1C83A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37AE53A-5258-4BB9-AED5-F038CE135B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37AE53A-5258-4BB9-AED5-F038CE135B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37AE53A-5258-4BB9-AED5-F038CE135B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37AE53A-5258-4BB9-AED5-F038CE135B33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.Entity;
 
 namespace App.Data.DataAccess
 {
@@ -24,7 +25,12 @@ namespace App.Data.DataAccess
             var result = new Artist();
             using( var db = new DBModel())
             {
-                result = db.Artist.Find(id);
+                //con Lazy Loading
+                //result = db.Artist.Find(id);
+
+                //con Include
+                result = db.Artist.Include(item => item.Album)
+                .Where(item => item.ArtistId == id).FirstOrDefault();
             }
             return result;
         }

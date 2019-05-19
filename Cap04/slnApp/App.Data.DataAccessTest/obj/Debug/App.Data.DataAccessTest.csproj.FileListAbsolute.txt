@@ -52,3 +52,5 @@ C:\VSD\github\vs2017-Developer\Cap04\slnApp\App.Data.DataAccessTest\obj\Debug\Ap
 C:\VSD\github\vs2017-Developer\Cap04\slnApp\App.Data.DataAccessTest\obj\Debug\App.Data.DataAccessTest.csproj.CopyComplete
 C:\VSD\github\vs2017-Developer\Cap04\slnApp\App.Data.DataAccessTest\obj\Debug\App.Data.DataAccessTest.dll
 C:\VSD\github\vs2017-Developer\Cap04\slnApp\App.Data.DataAccessTest\obj\Debug\App.Data.DataAccessTest.pdb
+C:\VSD\github\vs2017-Developer\Cap04\slnApp\App.Data.DataAccessTest\bin\Debug\App.Entities.Queries.dll
+C:\VSD\github\vs2017-Developer\Cap04\slnApp\App.Data.DataAccessTest\bin\Debug\App.Entities.Queries.pdb
