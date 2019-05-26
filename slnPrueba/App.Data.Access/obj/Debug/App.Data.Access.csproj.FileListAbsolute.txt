@@ -1,0 +1,14 @@
+C:\Users\EXTENSION\source\repos\slnPrueba\App.Data.Access\bin\Debug\App.Data.Access.dll.config
+C:\Users\EXTENSION\source\repos\slnPrueba\App.Data.Access\bin\Debug\App.Data.Access.dll
+C:\Users\EXTENSION\source\repos\slnPrueba\App.Data.Access\bin\Debug\App.Data.Access.pdb
+C:\Users\EXTENSION\source\repos\slnPrueba\App.Data.Access\bin\Debug\App.Entities.Base.dll
+C:\Users\EXTENSION\source\repos\slnPrueba\App.Data.Access\bin\Debug\EntityFramework.dll
+C:\Users\EXTENSION\source\repos\slnPrueba\App.Data.Access\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EXTENSION\source\repos\slnPrueba\App.Data.Access\bin\Debug\App.Entities.Base.pdb
+C:\Users\EXTENSION\source\repos\slnPrueba\App.Data.Access\bin\Debug\EntityFramework.xml
+C:\Users\EXTENSION\source\repos\slnPrueba\App.Data.Access\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EXTENSION\source\repos\slnPrueba\App.Data.Access\obj\Debug\App.Data.Access.csprojAssemblyReference.cache
+C:\Users\EXTENSION\source\repos\slnPrueba\App.Data.Access\obj\Debug\App.Data.Access.csproj.CoreCompileInputs.cache
+C:\Users\EXTENSION\source\repos\slnPrueba\App.Data.Access\obj\Debug\App.Data.Access.csproj.CopyComplete
+C:\Users\EXTENSION\source\repos\slnPrueba\App.Data.Access\obj\Debug\App.Data.Access.dll
+C:\Users\EXTENSION\source\repos\slnPrueba\App.Data.Access\obj\Debug\App.Data.Access.pdb
