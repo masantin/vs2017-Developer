@@ -13,7 +13,7 @@ namespace App.Data.Access
         {
         }
 
-        public virtual DbSet<Alumno> Alumno { get; set; }
+        public virtual DbSet<AlumnoADO> Alumno { get; set; }
         public virtual DbSet<Curso> Curso { get; set; }
         public virtual DbSet<Grado> Grado { get; set; }
         public virtual DbSet<Matricula> Matricula { get; set; }
@@ -22,16 +22,16 @@ namespace App.Data.Access
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Alumno>()
+            modelBuilder.Entity<AlumnoADO>()
                 .Property(e => e.Sexo)
                 .IsFixedLength();
 
-            modelBuilder.Entity<Alumno>()
+            modelBuilder.Entity<AlumnoADO>()
                 .HasMany(e => e.Matricula)
                 .WithRequired(e => e.Alumno)
                 .WillCascadeOnDelete(false);
 
-            modelBuilder.Entity<Alumno>()
+            modelBuilder.Entity<AlumnoADO>()
                 .HasMany(e => e.Notas)
                 .WithRequired(e => e.Alumno)
                 .WillCascadeOnDelete(false);

@@ -16,7 +16,7 @@ namespace App.Entities.Base
 
         public int Nota { get; set; }
 
-        public virtual Alumno Alumno { get; set; }
+        public virtual AlumnoADO Alumno { get; set; }
 
         public virtual Curso Curso { get; set; }
     }

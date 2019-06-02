@@ -12,3 +12,17 @@ C:\Users\EXTENSION\source\repos\slnPrueba\App.Data.Access\obj\Debug\App.Data.Acc
 C:\Users\EXTENSION\source\repos\slnPrueba\App.Data.Access\obj\Debug\App.Data.Access.csproj.CopyComplete
 C:\Users\EXTENSION\source\repos\slnPrueba\App.Data.Access\obj\Debug\App.Data.Access.dll
 C:\Users\EXTENSION\source\repos\slnPrueba\App.Data.Access\obj\Debug\App.Data.Access.pdb
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Data.Access\bin\Debug\App.Data.Access.dll.config
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Data.Access\bin\Debug\App.Data.Access.dll
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Data.Access\bin\Debug\App.Data.Access.pdb
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Data.Access\bin\Debug\App.Entities.Base.dll
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Data.Access\bin\Debug\EntityFramework.dll
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Data.Access\bin\Debug\EntityFramework.SqlServer.dll
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Data.Access\bin\Debug\App.Entities.Base.pdb
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Data.Access\bin\Debug\EntityFramework.xml
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Data.Access\bin\Debug\EntityFramework.SqlServer.xml
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Data.Access\obj\Debug\App.Data.Access.csprojAssemblyReference.cache
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Data.Access\obj\Debug\App.Data.Access.csproj.CoreCompileInputs.cache
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Data.Access\obj\Debug\App.Data.Access.csproj.CopyComplete
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Data.Access\obj\Debug\App.Data.Access.dll
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Data.Access\obj\Debug\App.Data.Access.pdb

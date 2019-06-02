@@ -6,10 +6,10 @@ namespace App.Entities.Base
     using System.ComponentModel.DataAnnotations.Schema;
 
     [Table("Alumno")]
-    public partial class Alumno
+    public partial class AlumnoADO
     {
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
-        public Alumno()
+        public AlumnoADO()
         {
             Matricula = new HashSet<Matricula>();
             Notas = new HashSet<Notas>();

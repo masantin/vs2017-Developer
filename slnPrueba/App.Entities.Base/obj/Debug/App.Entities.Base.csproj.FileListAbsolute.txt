@@ -4,3 +4,9 @@ C:\Users\EXTENSION\source\repos\slnPrueba\App.Entities.Base\obj\Debug\App.Entiti
 C:\Users\EXTENSION\source\repos\slnPrueba\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
 C:\Users\EXTENSION\source\repos\slnPrueba\App.Entities.Base\obj\Debug\App.Entities.Base.dll
 C:\Users\EXTENSION\source\repos\slnPrueba\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Entities.Base\obj\Debug\App.Entities.Base.csprojAssemblyReference.cache
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+C:\VSD\github\vs2017-Developer\slnPrueba\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
