@@ -47,7 +47,7 @@ namespace App.Data.Repository
             IQueryable<TEntity> query = _context.Set<TEntity>();
             if (filter != null)
             {
-                query.Where(filter);
+                query = query.Where(filter);
             }
 
             if(orderBy!= null)
