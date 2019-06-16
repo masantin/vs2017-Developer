@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.ServiceWCFLib.Interface
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Service.WCFHost", "App.Service.WCFHost\App.Service.WCFHost.csproj", "{AEDDCA41-34E3-468D-AB3B-C380DB3ECDF2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.UI.WebForm", "App.UI.WebForm\App.UI.WebForm.csproj", "{AEF60FFE-2087-4BF1-8612-90C6772465FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{AEDDCA41-34E3-468D-AB3B-C380DB3ECDF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEDDCA41-34E3-468D-AB3B-C380DB3ECDF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEDDCA41-34E3-468D-AB3B-C380DB3ECDF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF60FFE-2087-4BF1-8612-90C6772465FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF60FFE-2087-4BF1-8612-90C6772465FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF60FFE-2087-4BF1-8612-90C6772465FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF60FFE-2087-4BF1-8612-90C6772465FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -99,6 +105,7 @@ Global
 		{923F981E-530B-4094-8DF0-2BA95A137287} = {3BBF6954-1775-492C-8C75-0FE9100F9210}
 		{B39EB0FC-E4B2-47CE-875C-A5B631B4C6A0} = {3BBF6954-1775-492C-8C75-0FE9100F9210}
 		{AEDDCA41-34E3-468D-AB3B-C380DB3ECDF2} = {3BBF6954-1775-492C-8C75-0FE9100F9210}
+		{AEF60FFE-2087-4BF1-8612-90C6772465FA} = {AB00A93A-C4EC-49AB-A73D-05399B137E55}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {BAEEF703-9977-4850-8F7F-2AB819EBB1AD}
