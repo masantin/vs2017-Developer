@@ -1,0 +1,5 @@
+C:\VSD\vs2017-Developer\Cap08\slnApp\App.Entities.Base\bin\Release\App.Entities.Base.dll
+C:\VSD\vs2017-Developer\Cap08\slnApp\App.Entities.Base\bin\Release\App.Entities.Base.pdb
+C:\VSD\vs2017-Developer\Cap08\slnApp\App.Entities.Base\obj\Release\App.Entities.Base.csproj.CoreCompileInputs.cache
+C:\VSD\vs2017-Developer\Cap08\slnApp\App.Entities.Base\obj\Release\App.Entities.Base.dll
+C:\VSD\vs2017-Developer\Cap08\slnApp\App.Entities.Base\obj\Release\App.Entities.Base.pdb
