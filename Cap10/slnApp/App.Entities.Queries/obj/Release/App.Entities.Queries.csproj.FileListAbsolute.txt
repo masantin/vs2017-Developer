@@ -1,0 +1,12 @@
+C:\VSD\vs2017-Developer\Cap08\slnApp\App.Entities.Queries\bin\Release\App.Entities.Queries.dll
+C:\VSD\vs2017-Developer\Cap08\slnApp\App.Entities.Queries\bin\Release\App.Entities.Queries.pdb
+C:\VSD\vs2017-Developer\Cap08\slnApp\App.Entities.Queries\obj\Release\App.Entities.Queries.csprojAssemblyReference.cache
+C:\VSD\vs2017-Developer\Cap08\slnApp\App.Entities.Queries\obj\Release\App.Entities.Queries.csproj.CoreCompileInputs.cache
+C:\VSD\vs2017-Developer\Cap08\slnApp\App.Entities.Queries\obj\Release\App.Entities.Queries.dll
+C:\VSD\vs2017-Developer\Cap08\slnApp\App.Entities.Queries\obj\Release\App.Entities.Queries.pdb
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Entities.Queries\bin\Release\App.Entities.Queries.dll
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Entities.Queries\bin\Release\App.Entities.Queries.pdb
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Entities.Queries\obj\Release\App.Entities.Queries.csprojAssemblyReference.cache
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Entities.Queries\obj\Release\App.Entities.Queries.csproj.CoreCompileInputs.cache
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Entities.Queries\obj\Release\App.Entities.Queries.dll
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Entities.Queries\obj\Release\App.Entities.Queries.pdb
