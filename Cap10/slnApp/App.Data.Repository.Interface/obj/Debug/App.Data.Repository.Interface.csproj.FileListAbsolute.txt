@@ -51,3 +51,14 @@ C:\VSD\vs2017-Developer\Cap09\slnApp\App.Data.Repository.Interface\obj\Debug\App
 C:\VSD\vs2017-Developer\Cap09\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.csproj.CopyComplete
 C:\VSD\vs2017-Developer\Cap09\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.dll
 C:\VSD\vs2017-Developer\Cap09\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.pdb
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Data.Repository.Interface\bin\Debug\App.Data.Repository.Interface.dll
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Data.Repository.Interface\bin\Debug\App.Data.Repository.Interface.pdb
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Data.Repository.Interface\bin\Debug\App.Entities.Base.dll
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Data.Repository.Interface\bin\Debug\App.Entities.Queries.dll
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Data.Repository.Interface\bin\Debug\App.Entities.Base.pdb
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Data.Repository.Interface\bin\Debug\App.Entities.Queries.pdb
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.csprojAssemblyReference.cache
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.csproj.CoreCompileInputs.cache
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.csproj.CopyComplete
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.dll
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Data.Repository.Interface\obj\Debug\App.Data.Repository.Interface.pdb

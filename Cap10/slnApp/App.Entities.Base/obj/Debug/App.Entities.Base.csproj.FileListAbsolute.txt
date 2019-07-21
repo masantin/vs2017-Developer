@@ -28,3 +28,9 @@ C:\VSD\vs2017-Developer\Cap09\slnApp\App.Entities.Base\obj\Debug\App.Entities.Ba
 C:\VSD\vs2017-Developer\Cap09\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
 C:\VSD\vs2017-Developer\Cap09\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.dll
 C:\VSD\vs2017-Developer\Cap09\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.csprojAssemblyReference.cache
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+C:\VSD\vs2017-Developer\Cap10\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.pdb

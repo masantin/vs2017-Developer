@@ -29,5 +29,10 @@ namespace App.UI.WebForm.Pages.Venta
             uw.Dispose();
 
         }
+
+        protected void btnAgregar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
