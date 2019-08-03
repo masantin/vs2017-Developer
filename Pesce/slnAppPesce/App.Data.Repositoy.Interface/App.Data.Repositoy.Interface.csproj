@@ -41,8 +41,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IAppUnitOfWork.cs" />
+    <Compile Include="IReferenceDocumentTypeRepository.cs" />
+    <Compile Include="IReferenceDocumentRepository.cs" />
+    <Compile Include="IProductRepository.cs" />
+    <Compile Include="IPriceRepository.cs" />
+    <Compile Include="IDocumentLineRepository.cs" />
+    <Compile Include="IDocumentTypeRepository.cs" />
+    <Compile Include="IDocumentRepository.cs" />
+    <Compile Include="IDeliverySubjectRepository.cs" />
+    <Compile Include="ICustomerRepository.cs" />
+    <Compile Include="ICurrencyRepository.cs" />
+    <Compile Include="ICategoryRepository.cs" />
     <Compile Include="IGenericRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\App.Entities.Base\App.Entities.Base.csproj">
+      <Project>{1967620b-1296-4465-b3d9-bf04507ccc07}</Project>
+      <Name>App.Entities.Base</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

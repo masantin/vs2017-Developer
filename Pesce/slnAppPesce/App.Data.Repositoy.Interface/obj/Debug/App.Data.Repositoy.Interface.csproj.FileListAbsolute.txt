@@ -1,0 +1,10 @@
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.Repositoy.Interface\bin\Debug\App.Data.Repositoy.Interface.dll
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.Repositoy.Interface\bin\Debug\App.Data.Repositoy.Interface.pdb
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.Repositoy.Interface\bin\Debug\App.Entities.Base.dll
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.Repositoy.Interface\bin\Debug\App.Entities.Base.pdb
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.Repositoy.Interface\bin\Debug\App.Entities.Base.dll.config
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.Repositoy.Interface\obj\Debug\App.Data.Repositoy.Interface.csprojAssemblyReference.cache
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.Repositoy.Interface\obj\Debug\App.Data.Repositoy.Interface.csproj.CoreCompileInputs.cache
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.Repositoy.Interface\obj\Debug\App.Data.Repositoy.Interface.csproj.CopyComplete
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.Repositoy.Interface\obj\Debug\App.Data.Repositoy.Interface.dll
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.Repositoy.Interface\obj\Debug\App.Data.Repositoy.Interface.pdb

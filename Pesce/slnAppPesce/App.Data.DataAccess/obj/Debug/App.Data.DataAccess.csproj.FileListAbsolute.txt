@@ -1,0 +1,17 @@
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.dll.config
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.dll
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.pdb
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.DataAccess\bin\Debug\App.Data.Repositoy.Interface.dll
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.DataAccess\bin\Debug\App.Entities.Base.dll
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.DataAccess\bin\Debug\EntityFramework.dll
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.DataAccess\bin\Debug\App.Data.Repositoy.Interface.pdb
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.DataAccess\bin\Debug\App.Entities.Base.pdb
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.DataAccess\bin\Debug\App.Entities.Base.dll.config
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.DataAccess\bin\Debug\EntityFramework.xml
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csprojAssemblyReference.cache
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CoreCompileInputs.cache
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CopyComplete
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.dll
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.pdb

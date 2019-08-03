@@ -52,6 +52,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\App.Data.Repositoy.Interface\App.Data.Repositoy.Interface.csproj">
+      <Project>{964e8fa5-a3a6-4d3d-a9b7-9ee716a22352}</Project>
+      <Name>App.Data.Repositoy.Interface</Name>
+    </ProjectReference>
     <ProjectReference Include="..\App.Entities.Base\App.Entities.Base.csproj">
       <Project>{1967620b-1296-4465-b3d9-bf04507ccc07}</Project>
       <Name>App.Entities.Base</Name>

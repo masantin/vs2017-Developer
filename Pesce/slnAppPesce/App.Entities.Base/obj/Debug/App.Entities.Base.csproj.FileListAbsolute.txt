@@ -1,0 +1,12 @@
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Entities.Base\bin\Debug\App.Entities.Base.dll.config
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Entities.Base\bin\Debug\EntityFramework.dll
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Entities.Base\bin\Debug\EntityFramework.SqlServer.dll
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Entities.Base\bin\Debug\EntityFramework.xml
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Entities.Base\bin\Debug\EntityFramework.SqlServer.xml
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Entities.Base\obj\Debug\App.Entities.Base.csprojAssemblyReference.cache
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CopyComplete
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+C:\VSD\vs2017-Developer\vs2017-Developer\Pesce\slnAppPesce\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
